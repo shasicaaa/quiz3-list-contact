@@ -21,6 +21,7 @@ A new Flutter project.
    <img width="1919" height="1009" alt="image" src="https://github.com/user-attachments/assets/057597fd-1e74-4cbb-8c53-37b61e304a87" />
 
 5. Tampilan jika diperkecil
+   
    <img width="746" height="1002" alt="image" src="https://github.com/user-attachments/assets/7f29f1a9-4232-4080-be75-c40cf7fec101" />
-   <img width="740" height="996" alt="image" src="https://github.com/user-attachments/assets/8e5b07c7-8686-4f0b-8ba4-6cd278c34caa" />
    <img width="746" height="1001" alt="image" src="https://github.com/user-attachments/assets/45bd5801-1812-4868-88fd-baa5f8e5be5d" />
+   <img width="740" height="996" alt="image" src="https://github.com/user-attachments/assets/8e5b07c7-8686-4f0b-8ba4-6cd278c34caa" />
