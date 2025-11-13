@@ -40,7 +40,7 @@ A new Flutter project.
    - Warna
    - Tombol pada bagian call, karena hanya ada 1 tombol merah untuk mengakhiri telpon.
 
-4. Sebutkan prinsip Material Design yang kamu terapkan.
+3. Sebutkan prinsip Material Design yang kamu terapkan.
    Jawab:
    - Intention (Niat): Desain ini jelas menunjukkan fungsinya. Daftar kontak sangat fokus pada penyajian informasi kontak dan inisiasi panggilan, sementara layar panggilan sangat fokus pada status panggilan dan pengakhiran.
    - Bold, Graphic, Intentional: Penggunaan warna solid (biru dan merah), tipografi yang jelas, dan bentuk ikon yang lugas menunjukkan upaya untuk membuat antarmuka yang kuat secara visual.
